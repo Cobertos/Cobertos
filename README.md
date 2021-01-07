@@ -1,4 +1,4 @@
-![Sleep/Awake](https://sleebies.vercel.app/api/95QFMH)
+[![Sleep/Awake](https://sleebies.vercel.app/api/95QFMH)](https://github.com/Cobertos/sleebies)
 
 ## Maintaining
 
