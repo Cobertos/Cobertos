@@ -1,4 +1,4 @@
-[![Sleep/Awake](https://sleebies.vercel.app/api/95QFMH)](https://github.com/Cobertos/sleebies)
+[![Sleep/Awake](https://sleebies.vercel.app/api/95QFMH)](https://github.com/Cobertos/sleebies)  (lol I think this is broken x3)
 
 ## Maintaining
 
