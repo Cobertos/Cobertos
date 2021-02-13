@@ -1,4 +1,11 @@
+## My Environment
+
+Currently: Linux Mint uwu
+
 [My dotfiles](https://github.com/Cobertos/dotfiles)
+
+* [`cobertos-nuxt-template`](https://github.com/Cobertos/cobertos-nuxt-template) <a href="https://github.com/Cobertos/cobertos-nuxt-template/actions" target="_blank"><img alt="build status" src="https://github.com/Cobertos/cobertos-nuxt-template/workflows/Package%20Tests/badge.svg"></a>
+
 
 [![Sleep/Awake](https://sleebies.vercel.app/api/95QFMH)](https://github.com/Cobertos/sleebies)  (lol I think this is broken x3)
 
