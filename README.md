@@ -23,3 +23,4 @@ Currently: Linux Mint uwu
 ## Monitoring
 
 * [`cobertos.com`](https://cobertos.com) <a href="https://cobertos.com" target="_blank"><img alt="website up" src="https://shields.b4t.to/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fcobertos.com"></a>
+* [`freespace.dev`](https://freespace.dev) <a href="https://freespace.dev" target="_blank"><img alt="website up" src="https://shields.b4t.to/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Ffreespace.dev"></a>
