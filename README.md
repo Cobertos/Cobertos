@@ -27,4 +27,6 @@ Currently: Linux Mint uwu
 
 ### Client work
 
+Please check [Vercel's Status](https://www.vercel-status.com/) first to see if they're having issues.
+
 * [`brege.me`](https://brege.me) <a href="https://brege.me" target="_blank"><img alt="website up" src="https://shields.b4t.to/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fbrege.me"></a> <img alt="build status" src="https://vercel-badge-fork.vercel.app/api/cobertos/commisioned-brege-me">
