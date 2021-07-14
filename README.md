@@ -6,9 +6,6 @@ Currently: Linux Mint uwu
 
 * [`cobertos-nuxt-template`](https://github.com/Cobertos/cobertos-nuxt-template) <a href="https://github.com/Cobertos/cobertos-nuxt-template/actions" target="_blank"><img alt="build status" src="https://github.com/Cobertos/cobertos-nuxt-template/workflows/Package%20Tests/badge.svg"></a>
 
-
-[![Sleep/Awake](https://sleebies.vercel.app/api/95QFMH)](https://github.com/Cobertos/sleebies)  (lol I think this is broken x3)
-
 ## Maintaining
 
 * [`unitypackage_extractor`](https://github.com/Cobertos/unitypackage_extractor) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Cobertos/unitypackage_extractor/actions" target="_blank"><img alt="build status" src="https://github.com/Cobertos/unitypackage_extractor/workflows/Package%20Tests/badge.svg"> <img alt="issue count" src="https://img.shields.io/github/issues/Cobertos/unitypackage_extractor?color=ffffff"> <img alt="pr count" src="https://img.shields.io/github/issues-pr/Cobertos/unitypackage_extractor?color=ffffff"></a>
