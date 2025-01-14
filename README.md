@@ -1,6 +1,6 @@
 I'm some coder, mostly Typescript + React but it changes.
 
-I'm not super present online, except when I am. Mostly on [cobertos.com](https://cobertos.com)
+Social media is tiresome. I'm only really on [cobertos.com](https://cobertos.com) and Discord now.
 
 My biggest bottleneck seems to be the amount of data I manage. It's something I'm working on.
 
