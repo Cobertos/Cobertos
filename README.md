@@ -1,8 +1,6 @@
-I'm some coder, mostly Typescript + React but it changes.
+Some coder. Mostly Typescript.
 
-Social media is tiresome. I'm only really on [cobertos.com](https://cobertos.com) and Discord now.
-
-My biggest bottleneck seems to be the amount of data I manage. It's something I'm working on.
+Divesting from Github. The public internet has gotten a lot worse. Hasn't it? Retreating inwards, again. I'll be at [cobertos.com](https://cobertos.com) and Discord for now.
 
 ## My Environment
 
